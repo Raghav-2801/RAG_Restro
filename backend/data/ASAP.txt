@@ -1,0 +1,18 @@
+ASAP Daily Summary
+Date: 2026-01-26
+
+Total Sales: 11000
+
+Sales Breakdown:
+Dining: 700
+Zomato: 1300
+Swiggy: 5000
+Own Delivery: 4000
+
+Top Items:
+White Sauce Pasta - 102
+Thela chowmein - 84
+chur chur naan - 70
+
+Notes:
+Lot of dining because of 26th Jan 2026, National holiday

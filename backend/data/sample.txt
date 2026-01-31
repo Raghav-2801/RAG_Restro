@@ -1,0 +1,18 @@
+Cafe Daily Summary
+Date: 2026-01-28
+
+Total Sales: 11520
+
+Sales Breakdown:
+Dining: 4720
+Zomato: 3080
+Swiggy: 2560
+Own Delivery: 1160
+
+Top Itemsľ
+Latte - 102
+Espresso - 84
+Cappuccino - 70
+
+Notes:
+Rainy day, fewer walk-in customers.

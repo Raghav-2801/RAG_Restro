@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pypdf
+tiktoken
+faiss-cpu
+numpy
+reportlab
+openai
+python-dotenv
+sentence-transformers
+requests

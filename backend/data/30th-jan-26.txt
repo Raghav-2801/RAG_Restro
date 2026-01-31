@@ -1,0 +1,18 @@
+Cafe Daily Summary
+Date: 2026-01-30
+
+Total Sales: 9000
+
+Sales Breakdown:
+Dining: 700
+Zomato: 1300
+Swiggy: 5000
+Own Delivery: 2000
+
+Top Items:
+Crispyy Vada Pav - 102
+Chai - 84
+paneer Vada Pav - 70
+
+Notes:
+Lot of orders came from swiggy because of ongoing offer.
